@@ -11,7 +11,7 @@ The project includes a comprehensive analysis of sales data to understand revenu
 **Files**
 
 	•	orders.csv: The original dataset containing raw sales data.
-	•	Sales_Analysis.html: An HTML file containing the Jupyter Notebook code used for data cleaning, transformation, analysis, and uploading the data to MySQL.
+	•	Sales_Analysis.html: An HTML file containing the Jupyter Notebook python code used for data cleaning, transformation, analysis, and uploading the data to MySQL.
 
 **Data Cleaning and Transformation**
 
@@ -27,7 +27,7 @@ The analysis performed in the Sales_Analysis.html file includes:
 
 	1.	Month-over-Month Sales Growth Comparison (2022 vs 2023)
  	2.	Highest Sales Month for Each Category
-  3.	Profit Comparison of Sub-categories (2022 vs 2023)
+        3.	Profit Comparison of Sub-categories (2022 vs 2023)
 	4.	Top 10 Highest Revenue Generating Products
 	5.	Top 5 Selling Products in Each Region
 
@@ -44,7 +44,6 @@ The project also involves uploading the cleaned and transformed data to a MySQL 
 	•	Jupyter Notebook
 	•	Python (Pandas, Numpy, Matplotlib, SQLAlchemy)
 	•	MySQL
-	•	HTML (for presentation of the analysis)
 
 **Requirements**
 
@@ -53,7 +52,7 @@ The project also involves uploading the cleaned and transformed data to a MySQL 
 	•	numpy
 	•	matplotlib
 	•	sqlalchemy
-	•	mysqlclient (or pymysql)
+	•	mysql
 
 **Database Setup**
 
